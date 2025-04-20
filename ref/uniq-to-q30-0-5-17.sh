@@ -1,0 +1,9 @@
+samtools view -b -q 30 -f 2 ./0w_budA1.uniq.bam >./0w_budA1.q30.bam
+samtools view -b -q 30 -f 2 ./0w_budA2.uniq.bam >./0w_budA2.q30.bam
+samtools view -b -q 30 -f 2 ./0w_budA3.uniq.bam >./0w_budA3.q30.bam
+samtools view -b -q 30 -f 2 ./17w_budA1.uniq.bam >./17w_budA1.q30.bam
+samtools view -b -q 30 -f 2 ./17w_budA2.uniq.bam >./17w_budA2.q30.bam
+samtools view -b -q 30 -f 2 ./17w_budA3.uniq.bam >./17w_budA3.q30.bam
+samtools view -b -q 30 -f 2 ./5w_budA1.uniq.bam >./5w_budA1.q30.bam
+samtools view -b -q 30 -f 2 ./5w_budA2.uniq.bam >./5w_budA2.q30.bam
+samtools view -b -q 30 -f 2 ./5w_budA3.uniq.bam >./5w_budA3.q30.bam
